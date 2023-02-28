@@ -1,4 +1,5 @@
 def function_upper(string):
+    """Возращает строку начинающуюся с буквы в верхнем регистре!"""
     return string.upper()
 
 
